@@ -6,7 +6,10 @@ This app is intented as a demo for the, Article scroll percentage feature, in th
 
 ####Step 1:
 Just clone the repository:
+
 `git clone https://github.com/sirajulm/mysample.git`
+
+`cd mysample`
 
 ####Step 2:
 Just open the index.html in any browser, OR
