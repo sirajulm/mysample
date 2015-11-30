@@ -1,6 +1,6 @@
 #SampleApp
 
-This app is intented as a demo for the, Article scroll percentage feature, in the espn.go.com
+This app is intented as a demo for the, Article scroll percentage feature, in the http://espn.go.com
 
 ###Installation
 
