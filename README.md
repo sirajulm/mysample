@@ -16,3 +16,8 @@ Run the following command:
 `npm install`
 
 `npm run`
+
+
+###TODO's
+
+* Need to implement infinite scroll for the posts
